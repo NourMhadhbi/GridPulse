@@ -1,0 +1,12 @@
+# Environnement virtuel Python
+MLOPS_env/
+.venv/
+
+# Données locales
+data/
+
+#Données parquet
+notebooks/data
+
+# Cache Python
+__pycache__/
